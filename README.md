@@ -2,7 +2,9 @@
 
 npm run start - без минификации js/css/img + запуск сервера
 
-npm run build - с минификацией js/css и оптимизацией изображений  + gulp-pretty-html + запуск сервера
+npm run build - с минификацией js/css и оптимизацией изображений  + gulp-pretty-html
+
+npm run server - запуск сервера
 
 ### Структура
 

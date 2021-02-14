@@ -124,7 +124,6 @@ gulp.task('build', gulp.series(
     // 'js-build',
     'sprite',
   ),
-  'server',
 ));
 
 gulp.task('start', gulp.series(
